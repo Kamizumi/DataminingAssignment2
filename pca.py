@@ -1,7 +1,7 @@
 # -------------------------------------------------------------------------
 # AUTHOR: Timothy Tsang
 # FILENAME: pca.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: Returns the largest PC1 value
 # FOR: CS 4440 (Data Mining) - Assignment #2
 # TIME SPENT: 2 hours
 # -----------------------------------------------------------*/
